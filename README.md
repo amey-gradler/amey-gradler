@@ -4,7 +4,7 @@ I'm Ameya Ganore Pursuing Bachelors Degree in Computer Science💻  Full Stack W
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@ameya-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ameya_ganore)](https://twitter.com/abhiavati) [![Linkedin Badge](https://img.shields.io/badge/-AmeyaGanore-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameya-ganore-166a1a196/) [![Mail Badge](https://img.shields.io/badge/-@ameyagnore-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ameyganore/?hl=en) [![Mail Badge](https://img.shields.io/badge/-Ameya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ameyaganore@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@ameya-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ameya_ganore)](https://twitter.com/ameya_ganore) [![Linkedin Badge](https://img.shields.io/badge/-AmeyaGanore-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameya-ganore-166a1a196/) [![Mail Badge](https://img.shields.io/badge/-@ameyagnore-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ameyganore/?hl=en) [![Mail Badge](https://img.shields.io/badge/-Ameya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ameyaganore@gmail.com)
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/45010/screenshots/14281687/media/79f87d23670e2144bd2d5e2742185c8e.png?compress=1&resize=1600x1200" width="500" height="320" />
 
