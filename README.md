@@ -1,4 +1,4 @@
-## Hola <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Ameya.
+## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Ameya.
 #### 🎓 ABOUT ME
 I'm Ameya Ganore Pursuing Bachelors Degree in Computer Science💻  Full Stack Web Developer🚀 and having keen interest in database management and cloud computing 🌩️ .
 
@@ -25,7 +25,19 @@ I'm Ameya Ganore Pursuing Bachelors Degree in Computer Science💻  Full Stack W
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-blueviolet?style=flat-square&logo=redux)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-Latex-information?style=flat-square&logo=latex)
+
+
+<table>
+  <tr>
+    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amey-gradler&theme=radical" />
+</td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=amey-gradler&show_icons=true&theme=radical" />
+</td>
+  </tr>
+</table>
